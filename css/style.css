@@ -1,8 +1,9 @@
 
 .cajas
 {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     background: black;
     border-radius: 5px;
+    display: inline-block;
 }
