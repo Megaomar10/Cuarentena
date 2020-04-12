@@ -7,3 +7,14 @@
     border-radius: 5px;
     display: inline-block;
 }
+
+button
+{
+    width: 100px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+    display: inline-block;
+}
+
